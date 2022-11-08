@@ -1,0 +1,1 @@
+This is zomato landing page through html amd css only.
